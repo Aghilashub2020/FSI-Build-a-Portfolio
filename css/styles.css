@@ -1,0 +1,19 @@
+body { 
+    color: grey;
+}
+img {
+    border-radius: 10px;
+border-color: rgb(109, 9, 42);
+}
+h1 {
+    text-align:center;background-color: blue;
+}
+h2 {
+    text-align: center;
+}
+p {
+    font-style: oblique;
+}
+.pointer {
+    cursor: pointer;
+}
